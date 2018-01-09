@@ -1,0 +1,411 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ob_get",
+				"ob_get_contents"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"download",
+				"download_invoice"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"refund",
+				"refund_id"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"parti",
+				"partialy_refunded"
+			],
+			[
+				"order",
+				"order_id"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/astra_maindealer"
+	],
+	"file_history":
+	[
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-pdf-maker.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document.php",
+		"/var/www/html/plugin-tonjoo/wp-includes/js/quicktags.js",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/loco-translate/pub/js/min/admin.js",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/loco-translate/lib/compiled/phpunit.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/woocommerce-pdf-invoices-packingslips.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-documents.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce-packing-slip/inc/helpers.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce-packing-slip/vendor/dompdf/src/Dompdf.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce-packing-slip/inc/class-admin-page.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-post-types.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-webhooks-table-list.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-order-actions.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce-packing-slip/readme.txt",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-konfirmasi-pembayaran/inc/class.admin-page.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-refund/readme.md",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-konfirmasi-pembayaran/inc/class.settings.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-refund/inc/class.settings.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-konfirmasi-pembayaran/inc/class.form-konfirmasi.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-konfirmasi-pembayaran/inc/view/view.admin-page.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-konfirmasi-pembayaran/inc/view/view.admin-page.php.old",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-refund/inc/view/view.refund-report.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-refund/inc/class.admin-reports.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-refund/templates/refund-report-filter.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-refund/inc/class.report-refund-table.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-refund/assets/css/admin-refund.min.css",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-refund/inc/view/view.admin-page.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-refund/assets/js/main-script.js",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-refund/inc/class.admin-controller.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-konfirmasi-pembayaran/plugin-konfirmasi-pembayaran.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-refund/inc/class.admin-page.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-refund/plugin-refund.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-refund/inc/class.register-setting.php",
+		"/var/www/html/woocommerce/wp-content/plugins/woo-call-for-price/includes/setting.php",
+		"/media/tonjoo/055D-98A8/tonjoo/woocommerce/wp-content/plugins/woo-call-for-price/includes/setting.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-refund/inc/class.form-refund.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-refund/inc/view/view.form-refund.php",
+		"/var/www/html/plugin-tonjoo/wp-content/themes/test/functions.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-refund/assets/css/refund.css",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/abandon-order-email/admin-page.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-refund/inc/class.helpers.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce/includes/class-wc-order.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-refund/inc/class.mailer.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-refund/inc/view/view.list-refund.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce/includes/api/v1/class-wc-rest-report-sales-controller.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce/includes/admin/reports/class-wc-report-sales-by-date.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-refund/templates/email-template.php",
+		"/var/www/html/woocommerce/.htaccess",
+		"/var/www/html/woocommerce/wp-config.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce/includes/wc-order-functions.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce/includes/emails/class-wc-email-customer-refunded-order.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-reports.php",
+		"/var/www/html/plugin-tonjoo/.htaccess",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce/includes/admin/views/html-admin-page-reports.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce/includes/wc-update-functions.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce/includes/class-wc-ajax.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce/assets/js/admin/meta-boxes-order.js",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce/includes/api/class-wc-rest-order-refunds-controller.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce/templates/emails/customer-refunded-order.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce/includes/api/class-wc-rest-orders-controller.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-order-items.php",
+		"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce/includes/admin/reports/class-wc-report-customer-list.php",
+		"/var/www/html/plugin-tonjoo/wp-config.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce-pdf-invoices-packing-slips",
+			"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce-packing-slip/vendor/dompdf",
+			"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce-pdf-invoices-packing-slips",
+			"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce",
+			"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-refund",
+			"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce",
+			"/var/www/html/plugin-tonjoo/wp-content/plugins/plugin-refund",
+			"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce",
+			"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce/assets/js",
+			"/var/www/html/plugin-tonjoo/wp-content/plugins/woocommerce"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"html",
+			"render_template",
+			"PDF_Maker",
+			"WPO\\WC\\PDF_Invoices",
+			"Woocommerce_Packing_Slip",
+			"generate_pdf_ajax",
+			"generate_wpo_wcpdf",
+			"WPO\\WC\\PDF_Invoices",
+			"PDF_Maker",
+			">';",
+			"class Dompdf",
+			"Dompdf",
+			"once ",
+			"generate_wpo_wcpdf",
+			"wpcs_order_bulk_action_handle",
+			"handle_shop_order_bulk_actions",
+			"shop_order_bulk_actions",
+			"bulk_actions-edit-shop_order",
+			"row-actions",
+			"WP_List_Table",
+			"submitdelete",
+			"meta_box_payment_confirmation",
+			"ResellerAdminPage",
+			"pkp_load_textdomain",
+			"pkp",
+			"Plugin Invoice",
+			"WPCS",
+			"Reselle",
+			"reselle",
+			"RESELLE",
+			"reselle",
+			"RESELLE",
+			"reselle",
+			"RESELLE",
+			"reselle",
+			"RESELLE",
+			"reselle",
+			"RESELLE",
+			"reselle",
+			"RESELLE",
+			"reselle",
+			"RESELLE",
+			"reselle",
+			"RESELLE",
+			"reselle",
+			"RESELLE",
+			"notif_failed_title",
+			"failed",
+			"email_payment_success_customer_content",
+			"email_payment_success_customer_title",
+			"email_confirmation_customer_content",
+			"email_confirmation_customer_title",
+			"email_confirmation_customer_content",
+			"email_content_confirmation_customer",
+			"email_confirmation_customer_title",
+			"$helper->get_konfirmasi_option('email_confirmation_customer_content', __( 'email_confirmation_customer_content', 'pkp' ))",
+			"active_tab",
+			"start",
+			"reason",
+			"refund",
+			"sRefund",
+			"Refund",
+			"refund",
+			"Refund",
+			"the_lis",
+			"id",
+			"delete",
+			"term_id",
+			"title",
+			"add_new",
+			"$_POST['refund_reason_title']",
+			"title",
+			"add_new_refund_list",
+			"my_action",
+			"email_refund_request_customer_title",
+			"refund_notif_success_content",
+			"refund_notif_success_title",
+			"refund_notif_failed_content",
+			"refund_notif_failed_title",
+			"failed",
+			"title",
+			"content",
+			"$active_tab",
+			"my_plugin_add_settings",
+			"email",
+			"my-textdomain",
+			"MyPlugin",
+			"myplugin",
+			"WC_Settings_Refund",
+			"WC_Settings_MyPlugin",
+			"$refund_requested",
+			"&&",
+			"! isset",
+			" &&",
+			"! isset",
+			"payment-confirmation-content",
+			"refund_item(",
+			"get_total_refunded",
+			"refunded",
+			"refund_date",
+			"refund",
+			"type",
+			"__( '",
+			", 'refund' )",
+			"reason",
+			"email_refund_request_admin_title",
+			"email_refund_request_customer_title",
+			"tonjoo/",
+			"=> ",
+			"]",
+			"[",
+			"reseller",
+			"refund",
+			"display",
+			"start",
+			"reason",
+			"start",
+			"type",
+			"woocommerce_order_partially_refunded",
+			"trigger_partial",
+			"woocommerce_order_partially_refunded",
+			"woocommerce_before_create_refund",
+			"woocommerce_create_refund",
+			"_refunded_item_id",
+			"processing",
+			"query",
+			"options",
+			"refund_type"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"refund-content"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "astra-md.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
